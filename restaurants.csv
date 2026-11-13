@@ -1,0 +1,121 @@
+restaurant_id,restaurant_name,city,cuisine,rating
+R0001,Restaurant 001,Delhi,Pizza,3.9
+R0002,Restaurant 002,Hyderabad,Pizza,3.5
+R0003,Restaurant 003,Bengaluru,Burgers,3.8
+R0004,Restaurant 004,Hyderabad,Healthy,3.6
+R0005,Restaurant 005,Chennai,North Indian,3.3
+R0006,Restaurant 006,Bengaluru,Healthy,2.9
+R0007,Restaurant 007,Mumbai,North Indian,3.6
+R0008,Restaurant 008,Pune,Biryani,4.4
+R0009,Restaurant 009,Hyderabad,Chinese,2.8
+R0010,Restaurant 010,Pune,Pizza,3.8
+R0011,Restaurant 011,Hyderabad,Burgers,4.2
+R0012,Restaurant 012,Pune,Healthy,4.1
+R0013,Restaurant 013,Hyderabad,Chinese,4.5
+R0014,Restaurant 014,Bengaluru,Healthy,4.6
+R0015,Restaurant 015,Pune,Chinese,4.4
+R0016,Restaurant 016,Delhi,South Indian,3.0
+R0017,Restaurant 017,Bengaluru,Chinese,3.8
+R0018,Restaurant 018,Delhi,Biryani,4.1
+R0019,Restaurant 019,Delhi,Pizza,3.3
+R0020,Restaurant 020,Bengaluru,Burgers,2.9
+R0021,Restaurant 021,Chennai,South Indian,3.3
+R0022,Restaurant 022,Mumbai,Chinese,3.8
+R0023,Restaurant 023,Mumbai,Healthy,3.7
+R0024,Restaurant 024,Delhi,Biryani,3.2
+R0025,Restaurant 025,Pune,South Indian,4.6
+R0026,Restaurant 026,Pune,Healthy,4.8
+R0027,Restaurant 027,Pune,Biryani,3.2
+R0028,Restaurant 028,Mumbai,Healthy,4.8
+R0029,Restaurant 029,Chennai,Healthy,2.8
+R0030,Restaurant 030,Pune,Healthy,4.8
+R0031,Restaurant 031,Delhi,Pizza,4.9
+R0032,Restaurant 032,Hyderabad,Burgers,2.8
+R0033,Restaurant 033,Bengaluru,Healthy,4.5
+R0034,Restaurant 034,Pune,South Indian,4.9
+R0035,Restaurant 035,Chennai,North Indian,4.8
+R0036,Restaurant 036,Delhi,Chinese,4.9
+R0037,Restaurant 037,Hyderabad,Pizza,4.0
+R0038,Restaurant 038,Delhi,Biryani,3.0
+R0039,Restaurant 039,Bengaluru,North Indian,4.7
+R0040,Restaurant 040,Hyderabad,Biryani,4.2
+R0041,Restaurant 041,Pune,South Indian,4.2
+R0042,Restaurant 042,Chennai,Biryani,3.7
+R0043,Restaurant 043,Chennai,Pizza,4.1
+R0044,Restaurant 044,Delhi,Pizza,3.1
+R0045,Restaurant 045,Chennai,Chinese,4.4
+R0046,Restaurant 046,Hyderabad,Chinese,3.0
+R0047,Restaurant 047,Hyderabad,Pizza,4.4
+R0048,Restaurant 048,Hyderabad,Burgers,4.7
+R0049,Restaurant 049,Chennai,Burgers,3.8
+R0050,Restaurant 050,Pune,Chinese,3.9
+R0051,Restaurant 051,Bengaluru,Chinese,3.5
+R0052,Restaurant 052,Bengaluru,Chinese,4.9
+R0053,Restaurant 053,Delhi,Biryani,4.4
+R0054,Restaurant 054,Hyderabad,North Indian,3.6
+R0055,Restaurant 055,Pune,Biryani,3.2
+R0056,Restaurant 056,Delhi,South Indian,3.3
+R0057,Restaurant 057,Hyderabad,Biryani,3.8
+R0058,Restaurant 058,Chennai,Burgers,4.9
+R0059,Restaurant 059,Delhi,Healthy,4.4
+R0060,Restaurant 060,Delhi,Biryani,3.3
+R0061,Restaurant 061,Hyderabad,North Indian,4.7
+R0062,Restaurant 062,Delhi,South Indian,3.6
+R0063,Restaurant 063,Chennai,North Indian,4.7
+R0064,Restaurant 064,Chennai,Burgers,3.3
+R0065,Restaurant 065,Hyderabad,Healthy,4.2
+R0066,Restaurant 066,Delhi,Biryani,4.8
+R0067,Restaurant 067,Hyderabad,South Indian,3.4
+R0068,Restaurant 068,Mumbai,North Indian,4.3
+R0069,Restaurant 069,Delhi,Healthy,5.0
+R0070,Restaurant 070,Mumbai,Chinese,3.1
+R0071,Restaurant 071,Bengaluru,North Indian,3.0
+R0072,Restaurant 072,Bengaluru,South Indian,4.3
+R0073,Restaurant 073,Hyderabad,South Indian,3.5
+R0074,Restaurant 074,Bengaluru,Pizza,3.0
+R0075,Restaurant 075,Hyderabad,Healthy,3.8
+R0076,Restaurant 076,Delhi,South Indian,4.5
+R0077,Restaurant 077,Delhi,Pizza,3.4
+R0078,Restaurant 078,Pune,North Indian,3.5
+R0079,Restaurant 079,Hyderabad,North Indian,4.7
+R0080,Restaurant 080,Pune,North Indian,3.9
+R0081,Restaurant 081,Pune,Healthy,4.7
+R0082,Restaurant 082,Bengaluru,Pizza,3.8
+R0083,Restaurant 083,Mumbai,Burgers,4.9
+R0084,Restaurant 084,Hyderabad,North Indian,4.2
+R0085,Restaurant 085,Chennai,North Indian,3.1
+R0086,Restaurant 086,Bengaluru,Burgers,4.7
+R0087,Restaurant 087,Bengaluru,North Indian,3.9
+R0088,Restaurant 088,Chennai,South Indian,3.1
+R0089,Restaurant 089,Chennai,Biryani,3.1
+R0090,Restaurant 090,Mumbai,Pizza,4.3
+R0091,Restaurant 091,Delhi,South Indian,2.9
+R0092,Restaurant 092,Hyderabad,Biryani,3.4
+R0093,Restaurant 093,Mumbai,Pizza,3.1
+R0094,Restaurant 094,Mumbai,Biryani,3.8
+R0095,Restaurant 095,Delhi,Chinese,3.7
+R0096,Restaurant 096,Hyderabad,North Indian,3.9
+R0097,Restaurant 097,Mumbai,Biryani,3.4
+R0098,Restaurant 098,Delhi,Burgers,2.9
+R0099,Restaurant 099,Mumbai,Pizza,4.2
+R0100,Restaurant 100,Pune,Healthy,3.6
+R0101,Restaurant 101,Bengaluru,North Indian,4.2
+R0102,Restaurant 102,Mumbai,North Indian,3.0
+R0103,Restaurant 103,Mumbai,Biryani,2.8
+R0104,Restaurant 104,Chennai,South Indian,3.3
+R0105,Restaurant 105,Chennai,Pizza,3.8
+R0106,Restaurant 106,Hyderabad,Healthy,3.7
+R0107,Restaurant 107,Bengaluru,Chinese,4.6
+R0108,Restaurant 108,Pune,Biryani,3.6
+R0109,Restaurant 109,Delhi,Pizza,4.0
+R0110,Restaurant 110,Chennai,South Indian,4.1
+R0111,Restaurant 111,Delhi,Healthy,2.8
+R0112,Restaurant 112,Chennai,South Indian,3.9
+R0113,Restaurant 113,Pune,Burgers,3.6
+R0114,Restaurant 114,Mumbai,Pizza,3.7
+R0115,Restaurant 115,Pune,North Indian,3.0
+R0116,Restaurant 116,Mumbai,Burgers,4.5
+R0117,Restaurant 117,Delhi,South Indian,4.9
+R0118,Restaurant 118,Mumbai,Pizza,2.8
+R0119,Restaurant 119,Pune,Healthy,4.1
+R0120,Restaurant 120,Mumbai,Healthy,4.5

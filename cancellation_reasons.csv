@@ -1,0 +1,974 @@
+order_id,cancellation_reason
+O0000022,Long estimated wait
+O0000031,Long estimated wait
+O0000076,Delivery partner unavailable
+O0000080,Customer changed mind
+O0000086,Delivery partner unavailable
+O0000096,Restaurant unavailable
+O0000106,Long estimated wait
+O0000109,Restaurant unavailable
+O0000111,Delivery partner unavailable
+O0000112,Long estimated wait
+O0000125,Restaurant unavailable
+O0000132,Customer changed mind
+O0000141,Delivery partner unavailable
+O0000146,Long estimated wait
+O0000149,Long estimated wait
+O0000172,Long estimated wait
+O0000175,Delivery partner unavailable
+O0000177,Restaurant unavailable
+O0000178,Restaurant unavailable
+O0000196,Restaurant unavailable
+O0000208,Long estimated wait
+O0000227,Delivery partner unavailable
+O0000243,Delivery partner unavailable
+O0000248,Long estimated wait
+O0000252,Delivery partner unavailable
+O0000268,Long estimated wait
+O0000273,Customer changed mind
+O0000275,Customer changed mind
+O0000281,Restaurant unavailable
+O0000292,Restaurant unavailable
+O0000357,Customer changed mind
+O0000360,Restaurant unavailable
+O0000362,Long estimated wait
+O0000398,Restaurant unavailable
+O0000411,Customer changed mind
+O0000414,Restaurant unavailable
+O0000428,Customer changed mind
+O0000430,Long estimated wait
+O0000440,Long estimated wait
+O0000451,Customer changed mind
+O0000454,Payment issue
+O0000458,Delivery partner unavailable
+O0000479,Restaurant unavailable
+O0000489,Restaurant unavailable
+O0000497,Delivery partner unavailable
+O0000501,Delivery partner unavailable
+O0000512,Long estimated wait
+O0000520,Customer changed mind
+O0000525,Restaurant unavailable
+O0000539,Customer changed mind
+O0000587,Restaurant unavailable
+O0000593,Customer changed mind
+O0000595,Delivery partner unavailable
+O0000599,Long estimated wait
+O0000608,Payment issue
+O0000611,Customer changed mind
+O0000630,Long estimated wait
+O0000631,Long estimated wait
+O0000640,Delivery partner unavailable
+O0000643,Customer changed mind
+O0000669,Customer changed mind
+O0000686,Long estimated wait
+O0000708,Long estimated wait
+O0000724,Payment issue
+O0000735,Restaurant unavailable
+O0000742,Long estimated wait
+O0000746,Customer changed mind
+O0000756,Restaurant unavailable
+O0000767,Long estimated wait
+O0000777,Customer changed mind
+O0000796,Restaurant unavailable
+O0000801,Customer changed mind
+O0000809,Long estimated wait
+O0000812,Payment issue
+O0000827,Long estimated wait
+O0000833,Long estimated wait
+O0000842,Restaurant unavailable
+O0000847,Customer changed mind
+O0000862,Payment issue
+O0000865,Restaurant unavailable
+O0000897,Restaurant unavailable
+O0000915,Long estimated wait
+O0000920,Restaurant unavailable
+O0000925,Customer changed mind
+O0000926,Long estimated wait
+O0000946,Restaurant unavailable
+O0000961,Customer changed mind
+O0000969,Delivery partner unavailable
+O0000970,Delivery partner unavailable
+O0000971,Delivery partner unavailable
+O0000979,Long estimated wait
+O0000989,Long estimated wait
+O0001001,Restaurant unavailable
+O0001011,Payment issue
+O0001018,Restaurant unavailable
+O0001024,Restaurant unavailable
+O0001032,Delivery partner unavailable
+O0001041,Customer changed mind
+O0001052,Customer changed mind
+O0001061,Restaurant unavailable
+O0001069,Long estimated wait
+O0001077,Long estimated wait
+O0001089,Restaurant unavailable
+O0001090,Customer changed mind
+O0001091,Restaurant unavailable
+O0001095,Customer changed mind
+O0001096,Long estimated wait
+O0001127,Payment issue
+O0001130,Customer changed mind
+O0001153,Delivery partner unavailable
+O0001160,Restaurant unavailable
+O0001170,Payment issue
+O0001190,Customer changed mind
+O0001201,Customer changed mind
+O0001206,Restaurant unavailable
+O0001221,Delivery partner unavailable
+O0001239,Long estimated wait
+O0001279,Delivery partner unavailable
+O0001281,Long estimated wait
+O0001305,Delivery partner unavailable
+O0001306,Restaurant unavailable
+O0001312,Customer changed mind
+O0001321,Restaurant unavailable
+O0001329,Long estimated wait
+O0001330,Restaurant unavailable
+O0001336,Long estimated wait
+O0001343,Long estimated wait
+O0001377,Restaurant unavailable
+O0001383,Delivery partner unavailable
+O0001390,Restaurant unavailable
+O0001398,Long estimated wait
+O0001399,Long estimated wait
+O0001406,Delivery partner unavailable
+O0001413,Payment issue
+O0001419,Restaurant unavailable
+O0001421,Payment issue
+O0001423,Restaurant unavailable
+O0001438,Delivery partner unavailable
+O0001439,Payment issue
+O0001457,Customer changed mind
+O0001486,Delivery partner unavailable
+O0001509,Long estimated wait
+O0001534,Customer changed mind
+O0001535,Customer changed mind
+O0001562,Restaurant unavailable
+O0001566,Long estimated wait
+O0001568,Delivery partner unavailable
+O0001585,Delivery partner unavailable
+O0001586,Restaurant unavailable
+O0001587,Customer changed mind
+O0001590,Delivery partner unavailable
+O0001597,Payment issue
+O0001608,Restaurant unavailable
+O0001610,Delivery partner unavailable
+O0001614,Delivery partner unavailable
+O0001626,Restaurant unavailable
+O0001627,Customer changed mind
+O0001629,Customer changed mind
+O0001663,Delivery partner unavailable
+O0001694,Customer changed mind
+O0001697,Delivery partner unavailable
+O0001728,Restaurant unavailable
+O0001731,Customer changed mind
+O0001734,Delivery partner unavailable
+O0001767,Payment issue
+O0001768,Customer changed mind
+O0001769,Delivery partner unavailable
+O0001780,Delivery partner unavailable
+O0001789,Customer changed mind
+O0001803,Restaurant unavailable
+O0001808,Delivery partner unavailable
+O0001816,Long estimated wait
+O0001819,Restaurant unavailable
+O0001823,Customer changed mind
+O0001831,Customer changed mind
+O0001833,Restaurant unavailable
+O0001835,Long estimated wait
+O0001846,Long estimated wait
+O0001852,Restaurant unavailable
+O0001853,Customer changed mind
+O0001861,Restaurant unavailable
+O0001867,Long estimated wait
+O0001873,Customer changed mind
+O0001877,Customer changed mind
+O0001878,Payment issue
+O0001882,Customer changed mind
+O0001884,Long estimated wait
+O0001885,Delivery partner unavailable
+O0001890,Long estimated wait
+O0001900,Payment issue
+O0001903,Customer changed mind
+O0001913,Customer changed mind
+O0001920,Long estimated wait
+O0001921,Payment issue
+O0001922,Payment issue
+O0001930,Customer changed mind
+O0001937,Customer changed mind
+O0001969,Customer changed mind
+O0001982,Delivery partner unavailable
+O0001988,Customer changed mind
+O0002021,Customer changed mind
+O0002025,Long estimated wait
+O0002032,Delivery partner unavailable
+O0002034,Restaurant unavailable
+O0002036,Restaurant unavailable
+O0002055,Delivery partner unavailable
+O0002061,Payment issue
+O0002068,Customer changed mind
+O0002084,Long estimated wait
+O0002087,Customer changed mind
+O0002104,Delivery partner unavailable
+O0002116,Payment issue
+O0002119,Long estimated wait
+O0002122,Delivery partner unavailable
+O0002126,Restaurant unavailable
+O0002141,Long estimated wait
+O0002144,Restaurant unavailable
+O0002155,Customer changed mind
+O0002157,Customer changed mind
+O0002159,Delivery partner unavailable
+O0002161,Customer changed mind
+O0002166,Payment issue
+O0002187,Payment issue
+O0002191,Payment issue
+O0002195,Restaurant unavailable
+O0002213,Restaurant unavailable
+O0002220,Restaurant unavailable
+O0002233,Customer changed mind
+O0002250,Customer changed mind
+O0002282,Restaurant unavailable
+O0002285,Long estimated wait
+O0002291,Customer changed mind
+O0002297,Long estimated wait
+O0002322,Customer changed mind
+O0002325,Restaurant unavailable
+O0002328,Restaurant unavailable
+O0002330,Long estimated wait
+O0002339,Payment issue
+O0002340,Restaurant unavailable
+O0002345,Customer changed mind
+O0002360,Customer changed mind
+O0002415,Customer changed mind
+O0002417,Payment issue
+O0002429,Delivery partner unavailable
+O0002432,Delivery partner unavailable
+O0002469,Long estimated wait
+O0002474,Long estimated wait
+O0002484,Restaurant unavailable
+O0002496,Payment issue
+O0002499,Delivery partner unavailable
+O0002506,Restaurant unavailable
+O0002509,Customer changed mind
+O0002511,Long estimated wait
+O0002512,Customer changed mind
+O0002513,Delivery partner unavailable
+O0002558,Payment issue
+O0002594,Long estimated wait
+O0002606,Payment issue
+O0002627,Restaurant unavailable
+O0002637,Payment issue
+O0002648,Restaurant unavailable
+O0002654,Delivery partner unavailable
+O0002669,Customer changed mind
+O0002686,Long estimated wait
+O0002701,Long estimated wait
+O0002705,Customer changed mind
+O0002717,Restaurant unavailable
+O0002722,Long estimated wait
+O0002754,Customer changed mind
+O0002757,Restaurant unavailable
+O0002761,Restaurant unavailable
+O0002793,Customer changed mind
+O0002810,Restaurant unavailable
+O0002819,Customer changed mind
+O0002824,Delivery partner unavailable
+O0002838,Restaurant unavailable
+O0002870,Delivery partner unavailable
+O0002872,Payment issue
+O0002874,Delivery partner unavailable
+O0002882,Delivery partner unavailable
+O0002883,Payment issue
+O0002884,Payment issue
+O0002887,Long estimated wait
+O0002904,Customer changed mind
+O0002906,Delivery partner unavailable
+O0002908,Customer changed mind
+O0002924,Payment issue
+O0002934,Customer changed mind
+O0002946,Customer changed mind
+O0002952,Payment issue
+O0002955,Long estimated wait
+O0002958,Long estimated wait
+O0002965,Delivery partner unavailable
+O0002985,Customer changed mind
+O0002993,Delivery partner unavailable
+O0002997,Customer changed mind
+O0002999,Delivery partner unavailable
+O0003007,Long estimated wait
+O0003013,Long estimated wait
+O0003018,Long estimated wait
+O0003019,Customer changed mind
+O0003025,Restaurant unavailable
+O0003057,Customer changed mind
+O0003063,Long estimated wait
+O0003069,Payment issue
+O0003078,Delivery partner unavailable
+O0003081,Payment issue
+O0003103,Delivery partner unavailable
+O0003131,Restaurant unavailable
+O0003136,Payment issue
+O0003140,Restaurant unavailable
+O0003145,Customer changed mind
+O0003147,Long estimated wait
+O0003148,Long estimated wait
+O0003149,Delivery partner unavailable
+O0003156,Long estimated wait
+O0003199,Restaurant unavailable
+O0003202,Long estimated wait
+O0003207,Customer changed mind
+O0003210,Delivery partner unavailable
+O0003217,Restaurant unavailable
+O0003234,Restaurant unavailable
+O0003255,Long estimated wait
+O0003275,Long estimated wait
+O0003276,Long estimated wait
+O0003295,Payment issue
+O0003302,Restaurant unavailable
+O0003315,Long estimated wait
+O0003329,Restaurant unavailable
+O0003330,Payment issue
+O0003333,Long estimated wait
+O0003353,Customer changed mind
+O0003362,Restaurant unavailable
+O0003367,Delivery partner unavailable
+O0003375,Delivery partner unavailable
+O0003379,Delivery partner unavailable
+O0003381,Long estimated wait
+O0003387,Customer changed mind
+O0003403,Customer changed mind
+O0003408,Long estimated wait
+O0003409,Long estimated wait
+O0003425,Delivery partner unavailable
+O0003433,Restaurant unavailable
+O0003440,Restaurant unavailable
+O0003445,Restaurant unavailable
+O0003452,Long estimated wait
+O0003468,Long estimated wait
+O0003471,Payment issue
+O0003510,Restaurant unavailable
+O0003529,Delivery partner unavailable
+O0003530,Restaurant unavailable
+O0003534,Long estimated wait
+O0003548,Long estimated wait
+O0003551,Customer changed mind
+O0003553,Delivery partner unavailable
+O0003560,Payment issue
+O0003571,Long estimated wait
+O0003577,Customer changed mind
+O0003583,Delivery partner unavailable
+O0003592,Restaurant unavailable
+O0003607,Restaurant unavailable
+O0003649,Customer changed mind
+O0003665,Delivery partner unavailable
+O0003681,Long estimated wait
+O0003682,Long estimated wait
+O0003697,Restaurant unavailable
+O0003711,Delivery partner unavailable
+O0003765,Customer changed mind
+O0003771,Delivery partner unavailable
+O0003773,Long estimated wait
+O0003789,Delivery partner unavailable
+O0003795,Long estimated wait
+O0003796,Customer changed mind
+O0003807,Long estimated wait
+O0003820,Payment issue
+O0003829,Restaurant unavailable
+O0003830,Delivery partner unavailable
+O0003875,Delivery partner unavailable
+O0003877,Delivery partner unavailable
+O0003900,Long estimated wait
+O0003940,Restaurant unavailable
+O0003946,Long estimated wait
+O0003956,Restaurant unavailable
+O0003965,Restaurant unavailable
+O0003973,Restaurant unavailable
+O0003978,Long estimated wait
+O0003981,Long estimated wait
+O0003982,Delivery partner unavailable
+O0003993,Payment issue
+O0003996,Restaurant unavailable
+O0004003,Customer changed mind
+O0004030,Delivery partner unavailable
+O0004035,Restaurant unavailable
+O0004047,Delivery partner unavailable
+O0004052,Customer changed mind
+O0004067,Long estimated wait
+O0004072,Payment issue
+O0004090,Customer changed mind
+O0004111,Customer changed mind
+O0004139,Restaurant unavailable
+O0004144,Delivery partner unavailable
+O0004189,Restaurant unavailable
+O0004195,Restaurant unavailable
+O0004202,Restaurant unavailable
+O0004204,Delivery partner unavailable
+O0004218,Customer changed mind
+O0004219,Customer changed mind
+O0004230,Long estimated wait
+O0004234,Payment issue
+O0004241,Customer changed mind
+O0004247,Customer changed mind
+O0004252,Long estimated wait
+O0004255,Delivery partner unavailable
+O0004285,Restaurant unavailable
+O0004292,Restaurant unavailable
+O0004299,Customer changed mind
+O0004306,Delivery partner unavailable
+O0004315,Customer changed mind
+O0004316,Restaurant unavailable
+O0004332,Customer changed mind
+O0004341,Restaurant unavailable
+O0004356,Delivery partner unavailable
+O0004362,Payment issue
+O0004389,Restaurant unavailable
+O0004400,Delivery partner unavailable
+O0004424,Long estimated wait
+O0004430,Long estimated wait
+O0004432,Restaurant unavailable
+O0004454,Customer changed mind
+O0004457,Delivery partner unavailable
+O0004485,Delivery partner unavailable
+O0004494,Customer changed mind
+O0004501,Customer changed mind
+O0004513,Long estimated wait
+O0004522,Delivery partner unavailable
+O0004527,Restaurant unavailable
+O0004538,Long estimated wait
+O0004558,Customer changed mind
+O0004569,Delivery partner unavailable
+O0004591,Long estimated wait
+O0004594,Long estimated wait
+O0004600,Long estimated wait
+O0004611,Payment issue
+O0004622,Restaurant unavailable
+O0004640,Delivery partner unavailable
+O0004652,Long estimated wait
+O0004670,Long estimated wait
+O0004680,Delivery partner unavailable
+O0004685,Long estimated wait
+O0004701,Delivery partner unavailable
+O0004712,Customer changed mind
+O0004753,Customer changed mind
+O0004759,Customer changed mind
+O0004760,Delivery partner unavailable
+O0004766,Long estimated wait
+O0004781,Delivery partner unavailable
+O0004785,Customer changed mind
+O0004806,Long estimated wait
+O0004813,Customer changed mind
+O0004846,Delivery partner unavailable
+O0004853,Delivery partner unavailable
+O0004855,Payment issue
+O0004874,Restaurant unavailable
+O0004878,Long estimated wait
+O0004880,Delivery partner unavailable
+O0004888,Long estimated wait
+O0004921,Customer changed mind
+O0004923,Delivery partner unavailable
+O0004942,Restaurant unavailable
+O0004948,Customer changed mind
+O0004953,Long estimated wait
+O0004954,Customer changed mind
+O0004964,Customer changed mind
+O0004973,Restaurant unavailable
+O0004986,Delivery partner unavailable
+O0005000,Customer changed mind
+O0005008,Long estimated wait
+O0005022,Long estimated wait
+O0005033,Delivery partner unavailable
+O0005036,Long estimated wait
+O0005052,Long estimated wait
+O0005081,Long estimated wait
+O0005088,Long estimated wait
+O0005106,Long estimated wait
+O0005115,Delivery partner unavailable
+O0005118,Long estimated wait
+O0005126,Customer changed mind
+O0005157,Restaurant unavailable
+O0005161,Long estimated wait
+O0005165,Restaurant unavailable
+O0005168,Payment issue
+O0005173,Delivery partner unavailable
+O0005177,Long estimated wait
+O0005182,Delivery partner unavailable
+O0005192,Customer changed mind
+O0005198,Restaurant unavailable
+O0005203,Customer changed mind
+O0005235,Long estimated wait
+O0005250,Payment issue
+O0005264,Customer changed mind
+O0005276,Customer changed mind
+O0005279,Delivery partner unavailable
+O0005280,Delivery partner unavailable
+O0005282,Customer changed mind
+O0005299,Restaurant unavailable
+O0005312,Customer changed mind
+O0005318,Restaurant unavailable
+O0005327,Restaurant unavailable
+O0005336,Long estimated wait
+O0005345,Customer changed mind
+O0005357,Delivery partner unavailable
+O0005362,Customer changed mind
+O0005370,Payment issue
+O0005387,Restaurant unavailable
+O0005392,Delivery partner unavailable
+O0005402,Customer changed mind
+O0005404,Delivery partner unavailable
+O0005408,Restaurant unavailable
+O0005410,Delivery partner unavailable
+O0005425,Long estimated wait
+O0005427,Customer changed mind
+O0005444,Customer changed mind
+O0005471,Payment issue
+O0005479,Long estimated wait
+O0005482,Delivery partner unavailable
+O0005492,Restaurant unavailable
+O0005501,Delivery partner unavailable
+O0005504,Restaurant unavailable
+O0005506,Restaurant unavailable
+O0005531,Long estimated wait
+O0005541,Restaurant unavailable
+O0005542,Restaurant unavailable
+O0005546,Restaurant unavailable
+O0005569,Delivery partner unavailable
+O0005594,Payment issue
+O0005598,Customer changed mind
+O0005618,Customer changed mind
+O0005622,Delivery partner unavailable
+O0005654,Long estimated wait
+O0005687,Restaurant unavailable
+O0005696,Long estimated wait
+O0005703,Delivery partner unavailable
+O0005704,Payment issue
+O0005709,Long estimated wait
+O0005712,Payment issue
+O0005749,Delivery partner unavailable
+O0005779,Long estimated wait
+O0005791,Payment issue
+O0005799,Long estimated wait
+O0005819,Payment issue
+O0005822,Long estimated wait
+O0005837,Long estimated wait
+O0005850,Delivery partner unavailable
+O0005851,Restaurant unavailable
+O0005856,Delivery partner unavailable
+O0005873,Customer changed mind
+O0005932,Delivery partner unavailable
+O0005936,Long estimated wait
+O0005950,Long estimated wait
+O0005960,Restaurant unavailable
+O0005983,Long estimated wait
+O0005984,Long estimated wait
+O0005989,Delivery partner unavailable
+O0005994,Payment issue
+O0006001,Long estimated wait
+O0006010,Delivery partner unavailable
+O0006012,Payment issue
+O0006018,Delivery partner unavailable
+O0006040,Restaurant unavailable
+O0006063,Restaurant unavailable
+O0006072,Long estimated wait
+O0006083,Delivery partner unavailable
+O0006099,Payment issue
+O0006100,Long estimated wait
+O0006103,Restaurant unavailable
+O0006118,Payment issue
+O0006120,Payment issue
+O0006130,Delivery partner unavailable
+O0006135,Long estimated wait
+O0006150,Customer changed mind
+O0006152,Customer changed mind
+O0006169,Delivery partner unavailable
+O0006172,Customer changed mind
+O0006177,Long estimated wait
+O0006186,Long estimated wait
+O0006199,Restaurant unavailable
+O0006202,Delivery partner unavailable
+O0006204,Customer changed mind
+O0006222,Long estimated wait
+O0006223,Restaurant unavailable
+O0006246,Customer changed mind
+O0006291,Payment issue
+O0006301,Restaurant unavailable
+O0006303,Restaurant unavailable
+O0006308,Payment issue
+O0006312,Customer changed mind
+O0006338,Delivery partner unavailable
+O0006349,Restaurant unavailable
+O0006359,Long estimated wait
+O0006364,Restaurant unavailable
+O0006369,Long estimated wait
+O0006371,Delivery partner unavailable
+O0006376,Restaurant unavailable
+O0006390,Restaurant unavailable
+O0006397,Long estimated wait
+O0006414,Restaurant unavailable
+O0006434,Customer changed mind
+O0006436,Payment issue
+O0006439,Payment issue
+O0006479,Payment issue
+O0006480,Long estimated wait
+O0006481,Delivery partner unavailable
+O0006485,Long estimated wait
+O0006492,Long estimated wait
+O0006506,Delivery partner unavailable
+O0006509,Delivery partner unavailable
+O0006516,Delivery partner unavailable
+O0006522,Payment issue
+O0006577,Customer changed mind
+O0006579,Restaurant unavailable
+O0006584,Long estimated wait
+O0006585,Long estimated wait
+O0006593,Payment issue
+O0006626,Long estimated wait
+O0006648,Customer changed mind
+O0006656,Customer changed mind
+O0006660,Customer changed mind
+O0006662,Delivery partner unavailable
+O0006676,Customer changed mind
+O0006702,Long estimated wait
+O0006715,Customer changed mind
+O0006720,Long estimated wait
+O0006737,Customer changed mind
+O0006760,Long estimated wait
+O0006761,Long estimated wait
+O0006779,Payment issue
+O0006791,Customer changed mind
+O0006798,Delivery partner unavailable
+O0006804,Restaurant unavailable
+O0006813,Customer changed mind
+O0006816,Payment issue
+O0006823,Delivery partner unavailable
+O0006825,Long estimated wait
+O0006837,Payment issue
+O0006850,Customer changed mind
+O0006860,Customer changed mind
+O0006865,Long estimated wait
+O0006877,Long estimated wait
+O0006910,Payment issue
+O0006915,Long estimated wait
+O0006917,Delivery partner unavailable
+O0006941,Restaurant unavailable
+O0006942,Customer changed mind
+O0006946,Payment issue
+O0006958,Long estimated wait
+O0006979,Restaurant unavailable
+O0006981,Payment issue
+O0006983,Customer changed mind
+O0006987,Delivery partner unavailable
+O0007003,Customer changed mind
+O0007023,Restaurant unavailable
+O0007032,Long estimated wait
+O0007043,Customer changed mind
+O0007048,Long estimated wait
+O0007057,Customer changed mind
+O0007060,Customer changed mind
+O0007065,Customer changed mind
+O0007071,Restaurant unavailable
+O0007093,Payment issue
+O0007094,Customer changed mind
+O0007099,Customer changed mind
+O0007117,Delivery partner unavailable
+O0007120,Delivery partner unavailable
+O0007128,Restaurant unavailable
+O0007136,Customer changed mind
+O0007144,Delivery partner unavailable
+O0007148,Long estimated wait
+O0007158,Customer changed mind
+O0007166,Payment issue
+O0007196,Payment issue
+O0007204,Customer changed mind
+O0007224,Restaurant unavailable
+O0007225,Restaurant unavailable
+O0007230,Customer changed mind
+O0007231,Long estimated wait
+O0007264,Customer changed mind
+O0007273,Customer changed mind
+O0007276,Customer changed mind
+O0007279,Long estimated wait
+O0007284,Delivery partner unavailable
+O0007289,Customer changed mind
+O0007290,Customer changed mind
+O0007296,Long estimated wait
+O0007300,Restaurant unavailable
+O0007305,Restaurant unavailable
+O0007310,Long estimated wait
+O0007313,Long estimated wait
+O0007319,Payment issue
+O0007329,Delivery partner unavailable
+O0007344,Long estimated wait
+O0007354,Customer changed mind
+O0007364,Customer changed mind
+O0007395,Long estimated wait
+O0007401,Long estimated wait
+O0007407,Restaurant unavailable
+O0007411,Long estimated wait
+O0007413,Long estimated wait
+O0007420,Restaurant unavailable
+O0007439,Payment issue
+O0007464,Payment issue
+O0007474,Long estimated wait
+O0007479,Delivery partner unavailable
+O0007503,Long estimated wait
+O0007513,Delivery partner unavailable
+O0007517,Long estimated wait
+O0007537,Long estimated wait
+O0007544,Restaurant unavailable
+O0007555,Customer changed mind
+O0007566,Delivery partner unavailable
+O0007568,Long estimated wait
+O0007602,Restaurant unavailable
+O0007624,Customer changed mind
+O0007633,Customer changed mind
+O0007650,Delivery partner unavailable
+O0007651,Restaurant unavailable
+O0007707,Delivery partner unavailable
+O0007724,Restaurant unavailable
+O0007729,Customer changed mind
+O0007733,Delivery partner unavailable
+O0007734,Payment issue
+O0007745,Delivery partner unavailable
+O0007747,Payment issue
+O0007769,Long estimated wait
+O0007789,Long estimated wait
+O0007797,Delivery partner unavailable
+O0007808,Delivery partner unavailable
+O0007811,Restaurant unavailable
+O0007826,Delivery partner unavailable
+O0007834,Restaurant unavailable
+O0007866,Long estimated wait
+O0007884,Long estimated wait
+O0007905,Customer changed mind
+O0007922,Long estimated wait
+O0007935,Long estimated wait
+O0007944,Restaurant unavailable
+O0007947,Payment issue
+O0007979,Long estimated wait
+O0007991,Long estimated wait
+O0007994,Long estimated wait
+O0008003,Customer changed mind
+O0008010,Payment issue
+O0008024,Delivery partner unavailable
+O0008050,Payment issue
+O0008055,Restaurant unavailable
+O0008061,Restaurant unavailable
+O0008084,Long estimated wait
+O0008085,Delivery partner unavailable
+O0008109,Delivery partner unavailable
+O0008116,Restaurant unavailable
+O0008120,Restaurant unavailable
+O0008139,Delivery partner unavailable
+O0008146,Payment issue
+O0008147,Delivery partner unavailable
+O0008157,Customer changed mind
+O0008167,Payment issue
+O0008170,Delivery partner unavailable
+O0008182,Long estimated wait
+O0008192,Payment issue
+O0008201,Customer changed mind
+O0008203,Delivery partner unavailable
+O0008205,Customer changed mind
+O0008216,Long estimated wait
+O0008243,Customer changed mind
+O0008256,Delivery partner unavailable
+O0008271,Long estimated wait
+O0008276,Delivery partner unavailable
+O0008285,Payment issue
+O0008293,Long estimated wait
+O0008295,Delivery partner unavailable
+O0008315,Restaurant unavailable
+O0008317,Delivery partner unavailable
+O0008319,Customer changed mind
+O0008320,Long estimated wait
+O0008322,Delivery partner unavailable
+O0008332,Long estimated wait
+O0008335,Delivery partner unavailable
+O0008342,Long estimated wait
+O0008344,Long estimated wait
+O0008348,Delivery partner unavailable
+O0008351,Restaurant unavailable
+O0008360,Payment issue
+O0008368,Customer changed mind
+O0008377,Restaurant unavailable
+O0008386,Delivery partner unavailable
+O0008393,Long estimated wait
+O0008394,Long estimated wait
+O0008396,Customer changed mind
+O0008397,Customer changed mind
+O0008403,Restaurant unavailable
+O0008404,Customer changed mind
+O0008405,Long estimated wait
+O0008411,Restaurant unavailable
+O0008418,Long estimated wait
+O0008421,Payment issue
+O0008424,Restaurant unavailable
+O0008437,Long estimated wait
+O0008452,Customer changed mind
+O0008458,Restaurant unavailable
+O0008464,Delivery partner unavailable
+O0008467,Delivery partner unavailable
+O0008479,Restaurant unavailable
+O0008486,Delivery partner unavailable
+O0008501,Delivery partner unavailable
+O0008516,Delivery partner unavailable
+O0008519,Restaurant unavailable
+O0008536,Restaurant unavailable
+O0008539,Long estimated wait
+O0008540,Restaurant unavailable
+O0008547,Long estimated wait
+O0008548,Long estimated wait
+O0008550,Restaurant unavailable
+O0008560,Payment issue
+O0008565,Long estimated wait
+O0008568,Customer changed mind
+O0008589,Restaurant unavailable
+O0008593,Long estimated wait
+O0008597,Customer changed mind
+O0008601,Delivery partner unavailable
+O0008612,Long estimated wait
+O0008615,Delivery partner unavailable
+O0008622,Delivery partner unavailable
+O0008626,Payment issue
+O0008633,Delivery partner unavailable
+O0008641,Customer changed mind
+O0008653,Payment issue
+O0008671,Long estimated wait
+O0008686,Payment issue
+O0008692,Delivery partner unavailable
+O0008695,Restaurant unavailable
+O0008707,Restaurant unavailable
+O0008715,Long estimated wait
+O0008733,Restaurant unavailable
+O0008739,Payment issue
+O0008747,Restaurant unavailable
+O0008761,Long estimated wait
+O0008769,Delivery partner unavailable
+O0008800,Long estimated wait
+O0008805,Long estimated wait
+O0008808,Long estimated wait
+O0008835,Long estimated wait
+O0008874,Long estimated wait
+O0008882,Restaurant unavailable
+O0008910,Restaurant unavailable
+O0008920,Delivery partner unavailable
+O0008923,Restaurant unavailable
+O0008925,Restaurant unavailable
+O0008927,Customer changed mind
+O0008935,Payment issue
+O0008944,Long estimated wait
+O0008949,Customer changed mind
+O0008959,Long estimated wait
+O0008960,Long estimated wait
+O0008974,Long estimated wait
+O0008986,Restaurant unavailable
+O0008993,Delivery partner unavailable
+O0008994,Customer changed mind
+O0008995,Restaurant unavailable
+O0009009,Customer changed mind
+O0009011,Delivery partner unavailable
+O0009035,Restaurant unavailable
+O0009038,Customer changed mind
+O0009055,Delivery partner unavailable
+O0009070,Delivery partner unavailable
+O0009075,Payment issue
+O0009111,Long estimated wait
+O0009124,Restaurant unavailable
+O0009125,Restaurant unavailable
+O0009140,Restaurant unavailable
+O0009171,Long estimated wait
+O0009174,Long estimated wait
+O0009181,Delivery partner unavailable
+O0009182,Long estimated wait
+O0009184,Payment issue
+O0009186,Restaurant unavailable
+O0009194,Restaurant unavailable
+O0009222,Delivery partner unavailable
+O0009223,Long estimated wait
+O0009232,Long estimated wait
+O0009236,Customer changed mind
+O0009247,Delivery partner unavailable
+O0009252,Long estimated wait
+O0009283,Long estimated wait
+O0009289,Restaurant unavailable
+O0009314,Payment issue
+O0009360,Long estimated wait
+O0009362,Restaurant unavailable
+O0009371,Long estimated wait
+O0009372,Long estimated wait
+O0009382,Customer changed mind
+O0009386,Long estimated wait
+O0009392,Delivery partner unavailable
+O0009393,Restaurant unavailable
+O0009400,Long estimated wait
+O0009402,Customer changed mind
+O0009411,Payment issue
+O0009414,Restaurant unavailable
+O0009436,Long estimated wait
+O0009447,Delivery partner unavailable
+O0009448,Long estimated wait
+O0009451,Restaurant unavailable
+O0009454,Delivery partner unavailable
+O0009456,Customer changed mind
+O0009461,Restaurant unavailable
+O0009463,Customer changed mind
+O0009471,Long estimated wait
+O0009472,Customer changed mind
+O0009480,Restaurant unavailable
+O0009484,Long estimated wait
+O0009486,Long estimated wait
+O0009487,Delivery partner unavailable
+O0009501,Delivery partner unavailable
+O0009540,Payment issue
+O0009560,Restaurant unavailable
+O0009562,Customer changed mind
+O0009563,Long estimated wait
+O0009579,Long estimated wait
+O0009580,Customer changed mind
+O0009588,Customer changed mind
+O0009595,Long estimated wait
+O0009597,Delivery partner unavailable
+O0009611,Long estimated wait
+O0009627,Restaurant unavailable
+O0009647,Restaurant unavailable
+O0009662,Delivery partner unavailable
+O0009665,Delivery partner unavailable
+O0009686,Delivery partner unavailable
+O0009692,Delivery partner unavailable
+O0009693,Long estimated wait
+O0009697,Restaurant unavailable
+O0009700,Restaurant unavailable
+O0009714,Delivery partner unavailable
+O0009750,Long estimated wait
+O0009752,Payment issue
+O0009759,Long estimated wait
+O0009765,Customer changed mind
+O0009778,Payment issue
+O0009780,Payment issue
+O0009816,Delivery partner unavailable
+O0009828,Delivery partner unavailable
+O0009831,Customer changed mind
+O0009839,Delivery partner unavailable
+O0009844,Delivery partner unavailable
+O0009845,Long estimated wait
+O0009873,Customer changed mind
+O0009888,Delivery partner unavailable
+O0009890,Payment issue
+O0009891,Customer changed mind
+O0009900,Payment issue
+O0009905,Long estimated wait
+O0009911,Delivery partner unavailable
+O0009913,Customer changed mind
+O0009922,Long estimated wait
+O0009935,Delivery partner unavailable
+O0009937,Long estimated wait
+O0009953,Restaurant unavailable
+O0009954,Restaurant unavailable
+O0009960,Payment issue
+O0009962,Restaurant unavailable
+O0009973,Long estimated wait
+O0009974,Restaurant unavailable
+O0009980,Long estimated wait
+O0009987,Customer changed mind
+O0009997,Delivery partner unavailable
